@@ -4,7 +4,7 @@ import com.clark.service.TableService;
 import com.clark.util.InputUtil;
 import java.util.Scanner;
 
-public class Main { //third commit
+public class Main { //last na
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
